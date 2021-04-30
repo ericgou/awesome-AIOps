@@ -21,6 +21,7 @@
 ## Course and Slides
 * [Tsinghua-Peidan](http://netman.ai/courses/advanced-network-management-spring2018-syllabus/) - AIOps course in Tsinghua.
 * [基于机器学习的智能运维](http://netman.ai/wp-content/uploads/2016/12/%E5%9F%BA%E4%BA%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%99%BA%E8%83%BD%E8%BF%90%E7%BB%B4v1.6.pdf)
+* [清华AIOps课程](https://netman.aiops.org/)
 
 ## Industry Practice
 -------------------------------------------------------------------------------
@@ -60,6 +61,7 @@
 * [时间序列特征提取库tsfresh](https://github.com/blue-yonder/tsfresh)
 * [Yahoo EGADS : A Java package to automatically detect anomalies in large scale time-series data](https://github.com/yahoo/egads)
 * [Awesome Time Series Analysis and Data Mining](https://github.com/youngdou/awesome-time-series-analysis)
+* [netManAIOps](https://github.com/NetManAIOps)
 
 ## Paper
 * [Survey on Models and Techniques for Root-Cause Analysis](https://arxiv.org/pdf/1701.08546.pdf)
